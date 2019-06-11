@@ -2,7 +2,7 @@
 
 A C++ implementation of the famous "Conway's Game of Life"
 
-### HOW TO USE:
+## **How to use:**
 Launch the app.
 Settings of the simulation are determined in a "settings.txt"file that should be located in the same folder.
 If no file is found, a default one will be generated.
@@ -14,7 +14,7 @@ After the simulation is finished you can:
 	- save and exit the program. Saves the game state to a text file
 	- exit the program
 
-### GAME SAVE:
+## **Game save:**
 The game save should consist of zeroes (empty) and ones (cell) divided by commas.
 For example:
 
@@ -29,7 +29,7 @@ For example:
 1,1,0,0,0,0,0,0,0,0  
 0,0,1,1,0,0,0,0,0,0  
 
-### DEFAULT SETTINGS:
+## **Default settings:**
 
 height=25  
 width=25  
@@ -42,7 +42,7 @@ speed_multiplier=1
 periodic=0  
 display_style=0  
 
-### SETTINGS EXPLAINED:
+## **Settings explained:**
 
 - height, width - determine the size of the game board.
 
