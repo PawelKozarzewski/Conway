@@ -1,11 +1,9 @@
-  ___                                _       ___                           __   _     _   __      
- / __| ___  _ _ __ __ __ __ _  _  _ ( )___  / __| __ _  _ __   ___   ___  / _| | |   (_) / _| ___ 
-| (__ / _ \| ' \\ V  V // _` || || ||/(_-< | (_ |/ _` || '  \ / -_) / _ \|  _| | |__ | ||  _|/ -_)
- \___|\___/|_||_|\_/\_/ \__,_| \_, |  /__/  \___|\__,_||_|_|_|\___| \___/|_|   |____||_||_|  \___|
-                               |__/                                                               
+# Conway
+
+A C++ implementation of the famous "Conway's Game of Life"
 
 ===========
-# HOW TO USE:
+HOW TO USE:
 ===========
 
 Launch the app.
@@ -21,7 +19,7 @@ After the simulation is finished you can:
 
 The save should consist of zeroes (empty) and ones (cell) divided with commas.
 ==================
-# GAME SAVE EXAMPLE:
+GAME SAVE EXAMPLE:
 ==================
 
 0,0,1,0,0,0,0,0,0,0
@@ -36,7 +34,7 @@ The save should consist of zeroes (empty) and ones (cell) divided with commas.
 0,0,1,1,0,0,0,0,0,0
 
 =================
-# DEFAULT SETTINGS:
+DEFAULT SETTINGS:
 =================
 height=25
 width=25
@@ -50,7 +48,7 @@ periodic=0
 display_style=0
 
 ===================
-# SETTINGS EXPLAINED:
+SETTINGS EXPLAINED:
 ===================
 
 @ height, width - determine the size of the game board.
