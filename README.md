@@ -8,10 +8,10 @@ If no file is found, a default one will be generated.
 Once the settings are loaded, you can choose to load an initial game state from a text file or make it random.
 
 After the simulation is finished you can:
-	- restart the simulation. Resets stats.
-	- continue the simulation. Continues simulation for another amount of generations specified in settings.
-	- save and exit the program. Saves the game state to a text file
-	- exit the program
+- restart the simulation. Resets stats.
+- continue the simulation. Continues simulation for another amount of generations specified in settings.
+- save and exit the program. Saves the game state to a text file
+- exit the program
 
 ## **Game save:**
 The game save should consist of zeroes (empty) and ones (cell) divided by commas.
