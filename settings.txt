@@ -1,0 +1,10 @@
+height=65
+width=65
+lower_p=30
+upper_p=35
+rules_survival=23
+rules_birth=3
+number_of_generations=20
+speed_multiplier=1
+periodic=1
+display_style=1
