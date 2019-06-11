@@ -10,7 +10,7 @@ Once the settings are loaded, you can choose to load an initial game state from 
 After the simulation is finished you can:
 - restart the simulation. Resets stats.
 - continue the simulation. Continues simulation for another amount of generations specified in settings.
-- save and exit the program. Saves the game state to a text file
+- save and exit the program. Saves the game state to a text file.
 - exit the program
 
 ## **Game save:**
