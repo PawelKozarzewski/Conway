@@ -1,6 +1,4 @@
-# Conway
-
-A C++ implementation of the famous "Conway's Game of Life"
+# Conway's Game of Life
 
 ## **How to use:**
 Settings of the simulation are determined in a "settings.txt" file that should be located in the same folder.
