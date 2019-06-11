@@ -3,8 +3,7 @@
 A C++ implementation of the famous "Conway's Game of Life"
 
 ## **How to use:**
-Launch the app.
-Settings of the simulation are determined in a "settings.txt"file that should be located in the same folder.
+Settings of the simulation are determined in a "settings.txt" file that should be located in the same folder.
 If no file is found, a default one will be generated.
 Once the settings are loaded, you can choose to load an initial game state from a text file or make it random.
 
